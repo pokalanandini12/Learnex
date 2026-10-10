@@ -52,9 +52,5 @@ For a more convenient development experience, open the folder in Visual Studio C
 
 Learnex brings educational resources together in one place through a simple, multi-page website, making it easier for students to navigate learning topics and find practice materials.
 
-## Future Improvements
 
-- Add backend integration and persistent user accounts.
-- Implement functional authentication and signup validation.
-- Introduce quizzes, progress tracking, and personalized learning.
-- Improve accessibility and responsive design.
+
